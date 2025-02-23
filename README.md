@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h2>Aymane Sajed💫<br>I'm learning problem-solving and soft skills using low-level languages like C / C++ at 1337 Programming School.<br>Interested in Data science.<h2>
+  
 ![Funny GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG13enRnY2pydGxmZDh6N3llMnlhMW54NTQ0d3dxMXFuNmdzODdlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o78PM94DA50WIHKPHm/giphy.gif)
 
 # 💻 Tech Stack:

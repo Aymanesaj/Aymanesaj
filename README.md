@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h2>Aymane Sajed💫<h2>
   
-![Funny GIF](https://media.giphy.com/media/u2LJ0n4lx6jF6/giphy.gif?cid=ecf05e47dgs4ns7rax17wfzw4acxncgji8kaxmc3imnul5jc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![Funny GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGplOHBidnFkaTByaHJneWNoYTcydWhicmc0OHhtYmhubDU0cGc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gDSyjaOPwZ4A/giphy.gif)
 
 # 💻 Tech Stack:

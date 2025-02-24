@@ -1,5 +1,10 @@
 # 💫 About Me:
 <h2>Aymane Sajed💫<h2>
+
+#🅼🆈 🆂🆃🆄🅳🅴🅽🆃 🅸🅳 🅲🅰🆁🅳
+<a href="https://github.com/Aymanesaj" width="100%">
+  <img height=320 align="center" width="100%" src="https://badge.mediaplus.ma/greenbinary/asajed" />
+</a>
   
 ![Funny GIF](https://media.giphy.com/media/u2LJ0n4lx6jF6/giphy.gif?cid=ecf05e47dgs4ns7rax17wfzw4acxncgji8kaxmc3imnul5jc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -12,10 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=aymanesaj&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aymanesaj&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanesaj&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<a href="https://github.com/Aymanesaj" width="100%">
-  <img height=320 align="center" width="100%" src="https://badge.mediaplus.ma/greenbinary/asajed" />
-</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)

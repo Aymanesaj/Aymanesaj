@@ -13,6 +13,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aymanesaj&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanesaj&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<a href="https://github.com/Aymanesaj" width="100%">
+  <img height=320 align="center" width="100%" src="https://badge.mediaplus.ma/greenbinary/asajed" />
+</a>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 

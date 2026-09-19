@@ -145,9 +145,9 @@ My current priorities are:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn]
-- 📧 Email: [Add your email]
-- 🌐 Portfolio: [Add your portfolio]
+- 💼 [LinkedIn](https://www.linkedin.com/in/asajeddd/)
+- 📧 [Email](mailto:contact@aymanesajed.com)
+- 🌐 [Portfolio](https://aymanesajed.com)
 
 ---
 
